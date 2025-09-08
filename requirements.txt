@@ -1,8 +1,7 @@
-streamlit==1.22.0
-tensorflow==2.10.0  
-protobuf==3.20.3    
-numpy==1.23.5      
-opencv-python==4.9.0.80
+streamlit
+tensorflow==2.16.1 # Una versión de TF con Keras 3 compatible con Python 3.13
+opencv-python
+numpy
 matplotlib
 scikit-image
 Pillow
